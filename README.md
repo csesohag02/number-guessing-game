@@ -18,7 +18,12 @@ The game will randomly choose a number within a specified range. The player has 
 4. You have 10 attempts to guess the correct number.
 
 ## Requirements
-- Python 3.x or later.
+- Python 3.x
+
+## Installation
+1. Clone this repository or download the script.
+2. Ensure Python 3.x is installed on your system.
+3. No external libraries are required; the script uses Python's standard library.
 
 ## Example
 Here are some example outputs for different scenarios in Number Guessing Game:
